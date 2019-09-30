@@ -1,0 +1,6 @@
+git:
+    remote: https://github.com/HackGT/hackgt2019-website.git
+    branch: master
+target_port: 80
+deployment:
+  memory_request: '15Mi'
